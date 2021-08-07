@@ -1,0 +1,8 @@
+# Default ignored files
+/workspace.xml
+/.idea/
+*.iml
+out
+build/
+target/
+web/WEB-INF/classes
